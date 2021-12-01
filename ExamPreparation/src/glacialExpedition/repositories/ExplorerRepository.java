@@ -17,7 +17,7 @@ public class ExplorerRepository implements Repository{
 
     @Override
     public void add(Object entity) {
-        explorers.add((Explorer) entity);
+
     }
 
     @Override
